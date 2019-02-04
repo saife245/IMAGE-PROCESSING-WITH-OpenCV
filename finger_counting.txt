@@ -1,5 +1,0 @@
-requirement:-
-python 3.6
-opencv2
-
-### wait for 60sec after opening the camera to full setup the camera and then put your hand for finger detection.
